@@ -39,7 +39,7 @@
 </head>
 
 <body>
-
+test
 <c:choose>
     <c:when test="${not log}">
 		<%@include file="navbar.jspf"%>
