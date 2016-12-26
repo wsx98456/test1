@@ -18,9 +18,7 @@
 
 <!-- Bootstrap Core CSS -->
 
-<link
-	href="<%=request.getContextPath()%>/resources/css/bootstrap.min.css"
-	rel="stylesheet" />
+<link href="<%=request.getContextPath()%>/resources/css/bootstrap.min.css" rel="stylesheet" />
 
 <!-- Custom CSS -->
 
@@ -142,7 +140,7 @@
 		<hr>
 		<a href="index2" class="pull-right">開發人員</a>
 		<!-- Footer -->
-		<footer> </footer>
+		<footer>      </footer>
 
 	</div>
 	<!-- /.container -->
